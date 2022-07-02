@@ -5,9 +5,10 @@
 
 -----------------------------------------
 
-- 👋 Hi, I’m @Adri-Hdez
-- 👀 I’m interested in Machine Learning
-- 🌱 I’m currently learning AI & ML
+- 👋 Hi, I’m Adrián Hernández S.
+- 👀 I’m interested in Machine Learning and Bioinformatics.
+- 🌱 I’m currently learning AI & ML.
+- ⚙️ I’m currently working on [Preln](https://github.com/Adri-Hdez/Preln) Python Package, NLP Preprocessor for text in spanish.   
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/adrián-hernández-suárez-9b2779239/)
 
 <!---
