@@ -8,7 +8,7 @@
 - 👋 Hi, I’m Adrián Hernández S.
 - 👀 I’m interested in Machine Learning and Bioinformatics.
 - 🌱 I’m currently learning AI & ML.
-- ⚙️ I’m currently working on [Preln](https://github.com/Adri-Hdez/Preln) Python Package, NLP Preprocessor for text in spanish & [Pipeln](https://github.com/Adri-Hdez/Pipeln).   
+- ⚙️ I’m currently working on [Preln](https://github.com/Adri-Hdez/Preln) Python Package, NLP Preprocessor for text in spanish & [Pipeln](https://github.com/Adri-Hdez/Pipeln) Python Package, Custom Pipeline Maker.   
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/adrián-hernández-suárez-9b2779239/)
 
 <!---
